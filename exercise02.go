@@ -4,7 +4,7 @@
      3. Identifier "z" must have type bool
 - In the main function:
      1. Demonstrate the values of each identifier
-     2. The compiler assigned values to these variables. What are these values called?
+     2. The compiler assigned values to these variables. What are these values called? Answer: zero value.
 */
 package main
 
